@@ -19,7 +19,7 @@
 We will use [TensorFlow](https://www.tensorflow.org/) to train a convolutional Neural Network using a dataset of ~4600 labeled images of brains.  
 Subsequently we will evaluate the accuracy of our model against a test dataset
 
-This is part 1 of the final project of the executive path in "***Data Science and Business Analiytics***" held by the [POLIMI Graduate School of Management of Milan](https://www.som.polimi.it/) ( You can find part 2 [here](https://github.com/giuseppebrb/BrainTumorDetection) )
+This is part 1 of the final project for the executive path in "***Data Science and Business Analiytics***" held by [POLIMI Graduate School of Management of Milan](https://www.som.polimi.it/) ( You can find part 2 [here](https://github.com/giuseppebrb/BrainTumorDetection) )
 
 
 
@@ -38,7 +38,7 @@ You can run the project in [Google Collab](https://colab.research.google.com/git
 * [Train notebook](https://colab.research.google.com/github/TomMenga/brain-tumor-AI-CNN/blob/main/Brain_Tumor_CNN_Train.ipynb)
 * [Predict notebook](https://colab.research.google.com/github/TomMenga/brain-tumor-AI-CNN/blob/main/Brain_Tumor_CNN_Predict.ipynb)
 
-Or you can run it locally following this steps:
+Or run it locally following this steps:
 
 1. Install Python
 2. Clone the repo
