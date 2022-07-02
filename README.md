@@ -4,7 +4,7 @@
 <div align="center">
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-  [![](https://badgen.net/badge/release/1.0.0/green?icon=github)](https://github.com/TomMenga/brain-tumor-AI-CNN/releases/tag/v1.0) 
+  [![Release](https://badgen.net/badge/release/1.0.0/green?icon=github)](https://github.com/TomMenga/brain-tumor-AI-CNN/releases/tag/v1.0) 
   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TomMenga/brain-tumor-AI-CNN/blob/main/Brain_Tumor_CNN_Predict.ipynb)
 </div>
 <p align="center">
@@ -21,12 +21,12 @@
 
 Co-author: [@giuseppebrb](https://github.com/giuseppebrb)  
 
-The project aim is to use [TensorFlow](https://www.tensorflow.org/) to train a convolutional Neural Network using a dataset of ~4600 labeled images of brain scans.  
-Subsequently we will evaluate the accuracy of our model against a test dataset
+The project aim is to use [TensorFlow](https://www.tensorflow.org/) to train a convolutional Neural Network using a dataset of ~4600 labelled images of brain scans.  
+Subsequently, we will evaluate the accuracy of our model against a test dataset
 
 ![Tumor detection example](https://user-images.githubusercontent.com/12052575/176995032-c16bb0cb-c61c-40fa-a55b-981f6035cb21.PNG)
 
-This is part 1 of the final project for the executive path in "***Data Science and Business Analiytics***" held by [POLIMI Graduate School of Management of Milan](https://www.som.polimi.it/) ( You can find part 2 [here](https://github.com/giuseppebrb/BrainTumorDetection) )
+This is part 1 of the final project for the executive path in "***Data Science and Business Analytics***" held by [POLIMI Graduate School of Management of Milan](https://www.som.polimi.it/) ( You can find part 2 [here](https://github.com/giuseppebrb/BrainTumorDetection) )
 
 
 ### Built With
@@ -60,23 +60,6 @@ Or run it locally following this steps:
    ```sh
    jupyter notebook
    ```
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
