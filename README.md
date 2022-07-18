@@ -35,6 +35,7 @@ This is part 1 of the final project for the executive path in "***Data Science a
 * [Python](https://www.python.org/)
 * [Numpy](https://numpy.org/)
 * [Jupyter Notebook](https://jupyter.org/)
+* [MobileNetV2](https://keras.io/api/applications/mobilenet/#mobilenetv2-function)
 
 <!-- GETTING STARTED -->
 ## Getting Started
