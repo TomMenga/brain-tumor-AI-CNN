@@ -1,0 +1,951 @@
+File,Predicted Tumor,Predicted Healthy,Actual
+Cancer (403).jpg,1.00,0.00,Tumor
+Cancer (7).jpg,1.00,0.00,Tumor
+Cancer (1413).jpg,1.00,0.00,Tumor
+Cancer (46).jpg,1.00,0.00,Tumor
+Y159.JPG,1.00,0.00,Tumor
+Cancer (285).jpg,1.00,0.00,Tumor
+Cancer (1192).jpg,1.00,0.00,Tumor
+Y242.JPG,1.00,0.00,Tumor
+Cancer (970).jpg,1.00,0.00,Tumor
+Cancer (423).jpg,1.00,0.00,Tumor
+Y248.JPG,1.00,0.00,Tumor
+Cancer (2087).jpg,1.00,0.00,Tumor
+Cancer (986).JPG,1.00,0.00,Tumor
+Cancer (1528).jpg,1.00,0.00,Tumor
+Y53.jpg,1.00,0.00,Tumor
+Cancer (1195).jpg,1.00,0.00,Tumor
+Cancer (1285).jpg,1.00,0.00,Tumor
+Cancer (971).JPG,1.00,0.00,Tumor
+Cancer (587).jpg,1.00,0.00,Tumor
+Cancer (594).jpg,1.00,0.00,Tumor
+Y101.jpg,1.00,0.00,Tumor
+Cancer (1422).jpg,1.00,0.00,Tumor
+Cancer (2071).jpg,1.00,0.00,Tumor
+Cancer (50).tif,Error,Error,Tumor
+Cancer (2382).jpg,1.00,0.00,Tumor
+Cancer (2383).jpg,1.00,0.00,Tumor
+Cancer (8).jpg,1.00,0.00,Tumor
+Cancer (1537).jpg,1.00,0.00,Tumor
+Y99.JPG,1.00,0.00,Tumor
+Y165.JPG,1.00,0.00,Tumor
+Cancer (1396).jpg,1.00,0.00,Tumor
+Cancer (597).jpg,1.00,0.00,Tumor
+Y32.jpg,1.00,0.00,Tumor
+Cancer (1187).jpg,1.00,0.00,Tumor
+Cancer (579).jpg,1.00,0.00,Tumor
+Cancer (1294).jpg,1.00,0.00,Tumor
+Cancer (2079).jpg,1.00,0.00,Tumor
+Cancer (2239).jpg,1.00,0.00,Tumor
+Cancer (1005).jpg,1.00,0.00,Tumor
+Cancer (415).jpg,1.00,0.00,Tumor
+Y107.jpg,1.00,0.00,Tumor
+Cancer (1189).jpg,1.00,0.00,Tumor
+Y106.jpg,1.00,0.00,Tumor
+Cancer (1196).jpg,1.00,0.00,Tumor
+Cancer (413).jpg,1.00,0.00,Tumor
+Cancer (2086).jpg,1.00,0.00,Tumor
+Y169.jpg,1.00,0.00,Tumor
+Cancer (1177).jpg,1.00,0.00,Tumor
+Cancer (404).jpg,1.00,0.00,Tumor
+Cancer (1208).jpg,1.00,0.00,Tumor
+Cancer (1000).jpg,1.00,0.00,Tumor
+Y109.JPG,1.00,0.00,Tumor
+Cancer (2366).jpg,1.00,0.00,Tumor
+Y58.JPG,1.00,0.00,Tumor
+Cancer (2088).jpg,1.00,0.00,Tumor
+Cancer (422).jpg,1.00,0.00,Tumor
+Cancer (2070).jpg,1.00,0.00,Tumor
+Y33.jpg,1.00,0.00,Tumor
+Y120.JPG,1.00,0.00,Tumor
+Cancer (592).jpg,1.00,0.00,Tumor
+Cancer (1287).jpg,1.00,0.00,Tumor
+Y246.JPG,1.00,0.00,Tumor
+Y8.jpg,1.00,0.00,Tumor
+Y92.png,1.00,0.00,Tumor
+Y50.JPG,1.00,0.00,Tumor
+Cancer (292).jpg,1.00,0.00,Tumor
+Cancer (1277).jpg,1.00,0.00,Tumor
+Y182.JPG,1.00,0.00,Tumor
+Y253.JPG,1.00,0.00,Tumor
+Cancer (964).jpg,1.00,0.00,Tumor
+Y195.JPG,1.00,0.00,Tumor
+Y7.jpg,1.00,0.00,Tumor
+Y25.jpg,1.00,0.00,Tumor
+Y12.jpg,1.00,0.00,Tumor
+Cancer (962).jpg,1.00,0.00,Tumor
+Cancer (1384).jpg,1.00,0.00,Tumor
+Cancer (2387).jpg,1.00,0.00,Tumor
+Cancer (1525).jpg,1.00,0.00,Tumor
+Cancer (981).jpg,1.00,0.00,Tumor
+Cancer (1002).JPG,1.00,0.00,Tumor
+Cancer (1527).jpg,1.00,0.00,Tumor
+Y250.jpg,1.00,0.00,Tumor
+Y39.jpg,1.00,0.00,Tumor
+Y10.jpg,1.00,0.00,Tumor
+Cancer (1206).jpg,1.00,0.00,Tumor
+Cancer (406).jpg,1.00,0.00,Tumor
+Cancer (2085).jpg,1.00,0.00,Tumor
+Cancer (1532).jpg,1.00,0.00,Tumor
+Cancer (414).jpg,1.00,0.00,Tumor
+Y86.JPG,1.00,0.00,Tumor
+Cancer (47).tif,Error,Error,Tumor
+Cancer (1535).jpg,1.00,0.00,Tumor
+Cancer (967).JPG,1.00,0.00,Tumor
+Cancer (269).jpg,1.00,0.00,Tumor
+Cancer (412).jpg,1.00,0.00,Tumor
+Cancer (1003).jpg,1.00,0.00,Tumor
+Cancer (980).jpg,1.00,0.00,Tumor
+Cancer (974).JPG,1.00,0.00,Tumor
+Cancer (1190).jpg,1.00,0.00,Tumor
+Cancer (588).jpg,1.00,0.00,Tumor
+Cancer (1284).jpg,1.00,0.00,Tumor
+Cancer (596).jpg,1.00,0.00,Tumor
+Cancer (2367).jpg,1.00,0.00,Tumor
+Cancer (1281).jpg,1.00,0.00,Tumor
+Cancer (175).jpg,1.00,0.00,Tumor
+Y166.JPG,1.00,0.00,Tumor
+Y67.JPG,1.00,0.00,Tumor
+Cancer (1193).jpg,1.00,0.00,Tumor
+Cancer (1291).jpg,1.00,0.00,Tumor
+Cancer (1520).jpg,1.00,0.00,Tumor
+Y183.jpg,1.00,0.00,Tumor
+Y161.JPG,1.00,0.00,Tumor
+Cancer (578).jpg,1.00,0.00,Tumor
+Y98.JPG,1.00,0.00,Tumor
+Cancer (989).jpg,1.00,0.00,Tumor
+Y108.jpg,1.00,0.00,Tumor
+Cancer (272).jpg,1.00,0.00,Tumor
+Cancer (2075).jpg,1.00,0.00,Tumor
+Y1.jpg,1.00,0.00,Tumor
+Y15.jpg,1.00,0.00,Tumor
+Y244.JPG,1.00,0.00,Tumor
+Cancer (273).jpg,1.00,0.00,Tumor
+Cancer (2393).jpg,1.00,0.00,Tumor
+Cancer (11).jpg,1.00,0.00,Tumor
+Cancer (1404).jpg,1.00,0.00,Tumor
+Cancer (1159).jpg,1.00,0.00,Tumor
+Y256.JPG,1.00,0.00,Tumor
+Cancer (1437).jpg,1.00,0.00,Tumor
+Cancer (1200).jpg,1.00,0.00,Tumor
+Cancer (1176).JPG,1.00,0.00,Tumor
+Cancer (2249).jpg,1.00,0.00,Tumor
+Cancer (581).jpg,1.00,0.00,Tumor
+Cancer (2077).jpg,1.00,0.00,Tumor
+Cancer (416).jpg,1.00,0.00,Tumor
+Cancer (1169).JPG,1.00,0.00,Tumor
+Cancer (2068).jpg,1.00,0.00,Tumor
+Cancer (580).jpg,1.00,0.00,Tumor
+Y81.jpg,1.00,0.00,Tumor
+Cancer (993).JPG,1.00,0.00,Tumor
+Y66.JPG,1.00,0.00,Tumor
+Cancer (2066).jpg,1.00,0.00,Tumor
+Y51.jpg,1.00,0.00,Tumor
+Cancer (1304).jpg,1.00,0.00,Tumor
+Cancer (2380).jpg,1.00,0.00,Tumor
+Cancer (408).jpg,1.00,0.00,Tumor
+Cancer (1155).jpg,1.00,0.00,Tumor
+Cancer (996).jpg,1.00,0.00,Tumor
+Cancer (590).jpg,1.00,0.00,Tumor
+Y117.JPG,1.00,0.00,Tumor
+Cancer (965).jpg,1.00,0.00,Tumor
+Cancer (1296).jpg,1.00,0.00,Tumor
+Cancer (988).jpg,1.00,0.00,Tumor
+Cancer (283).jpg,1.00,0.00,Tumor
+Y42.jpg,1.00,0.00,Tumor
+Y13.jpg,1.00,0.00,Tumor
+Cancer (1209).jpg,1.00,0.00,Tumor
+Cancer (2225).jpg,1.00,0.00,Tumor
+Cancer (2381).jpg,1.00,0.00,Tumor
+Cancer (286).jpg,1.00,0.00,Tumor
+Y17.jpg,1.00,0.00,Tumor
+Y19.JPG,1.00,0.00,Tumor
+Y70.jpg,1.00,0.00,Tumor
+Cancer (296).jpg,1.00,0.00,Tumor
+Y156.JPG,1.00,0.00,Tumor
+Cancer (589).jpg,1.00,0.00,Tumor
+Cancer (1541).jpg,1.00,0.00,Tumor
+Cancer (1288).jpg,1.00,0.00,Tumor
+Cancer (1174).JPG,1.00,0.00,Tumor
+Cancer (2081).jpg,1.00,0.00,Tumor
+Cancer (410).jpg,1.00,0.00,Tumor
+Cancer (1299).jpg,1.00,0.00,Tumor
+Cancer (1160).jpg,1.00,0.00,Tumor
+Cancer (275).jpg,1.00,0.00,Tumor
+Cancer (1540).jpg,1.00,0.00,Tumor
+Y164.JPG,1.00,0.00,Tumor
+Cancer (1543).jpg,1.00,0.00,Tumor
+Y252.jpg,1.00,0.00,Tumor
+Cancer (1286).jpg,1.00,0.00,Tumor
+Cancer (1300).jpg,1.00,0.00,Tumor
+Y258.JPG,1.00,0.00,Tumor
+Cancer (1522).jpg,1.00,0.00,Tumor
+Cancer (969).jpg,1.00,0.00,Tumor
+Y104.jpg,1.00,0.00,Tumor
+Cancer (1428).jpg,1.00,0.00,Tumor
+Y30.jpg,1.00,0.00,Tumor
+Cancer (1289).jpg,1.00,0.00,Tumor
+Y89.JPG,1.00,0.00,Tumor
+Cancer (1205).jpg,1.00,0.00,Tumor
+Cancer (972).JPG,1.00,0.00,Tumor
+Y116.JPG,1.00,0.00,Tumor
+Y96.jpg,1.00,0.00,Tumor
+Cancer (2373).jpg,1.00,0.00,Tumor
+Cancer (2377).jpg,1.00,0.00,Tumor
+Cancer (1275).jpg,1.00,0.00,Tumor
+Cancer (417).jpg,1.00,0.00,Tumor
+Y73.jpg,1.00,0.00,Tumor
+Y181.jpg,1.00,0.00,Tumor
+Cancer (973).jpg,1.00,0.00,Tumor
+Cancer (2082).jpg,1.00,0.00,Tumor
+Cancer (2074).jpg,1.00,0.00,Tumor
+Y55.jpg,1.00,0.00,Tumor
+Cancer (2240).jpg,1.00,0.00,Tumor
+Cancer (297).jpg,1.00,0.00,Tumor
+Cancer (1276).jpg,1.00,0.00,Tumor
+Cancer (2231).jpg,1.00,0.00,Tumor
+Cancer (295).jpg,1.00,0.00,Tumor
+Y111.JPG,1.00,0.00,Tumor
+Cancer (302).jpg,1.00,0.00,Tumor
+Y180.jpg,1.00,0.00,Tumor
+Cancer (1157).jpg,1.00,0.00,Tumor
+Y160.JPG,1.00,0.00,Tumor
+Cancer (998).JPG,1.00,0.00,Tumor
+Y6.jpg,1.00,0.00,Tumor
+Cancer (2247).jpg,1.00,0.00,Tumor
+Cancer (1407).jpg,1.00,0.00,Tumor
+Cancer (2369).jpg,1.00,0.00,Tumor
+Cancer (2224).jpg,1.00,0.00,Tumor
+Cancer (2358).jpg,1.00,0.00,Tumor
+Cancer (978).jpg,1.00,0.00,Tumor
+Cancer (271).jpg,1.00,0.00,Tumor
+Y44.JPG,1.00,0.00,Tumor
+Cancer (1545).jpg,1.00,0.00,Tumor
+Cancer (2388).jpg,1.00,0.00,Tumor
+Cancer (2076).jpg,1.00,0.00,Tumor
+Cancer (1007).jpg,1.00,0.00,Tumor
+Cancer (305).jpg,1.00,0.00,Tumor
+Y37.jpg,1.00,0.00,Tumor
+Cancer (2376).jpg,1.00,0.00,Tumor
+Cancer (1514).jpg,1.00,0.00,Tumor
+Cancer (1198).jpg,1.00,0.00,Tumor
+Cancer (166).jpg,1.00,0.00,Tumor
+Cancer (600).jpg,1.00,0.00,Tumor
+Cancer (173).jpg,1.00,0.00,Tumor
+Y65.JPG,1.00,0.00,Tumor
+Cancer (2390).jpg,1.00,0.00,Tumor
+Cancer (270).jpg,1.00,0.00,Tumor
+Cancer (1158).jpg,1.00,0.00,Tumor
+Cancer (1305).jpg,1.00,0.00,Tumor
+Cancer (303).jpg,1.00,0.00,Tumor
+Y78.jpg,1.00,0.00,Tumor
+Cancer (976).JPG,1.00,0.00,Tumor
+Y184.JPG,1.00,0.00,Tumor
+Cancer (268).jpg,1.00,0.00,Tumor
+Cancer (1429).jpg,1.00,0.00,Tumor
+Cancer (1516).jpg,1.00,0.00,Tumor
+Y90.jpg,1.00,0.00,Tumor
+Cancer (3).tif,Error,Error,Tumor
+Cancer (419).jpg,1.00,0.00,Tumor
+Cancer (293).jpg,1.00,0.00,Tumor
+Y146.JPG,1.00,0.00,Tumor
+Y36.JPG,1.00,0.00,Tumor
+Cancer (2374).jpg,1.00,0.00,Tumor
+Cancer (2233).jpg,1.00,0.00,Tumor
+Y18.JPG,1.00,0.00,Tumor
+Y255.JPG,1.00,0.00,Tumor
+Cancer (2230).jpg,1.00,0.00,Tumor
+Y245.jpg,1.00,0.00,Tumor
+Cancer (11).tif,Error,Error,Tumor
+Cancer (1439).jpg,1.00,0.00,Tumor
+Y2.jpg,1.00,0.00,Tumor
+Cancer (1405).jpg,1.00,0.00,Tumor
+Cancer (1524).jpg,1.00,0.00,Tumor
+Cancer (2391).jpg,1.00,0.00,Tumor
+Cancer (975).jpg,1.00,0.00,Tumor
+Cancer (1279).jpg,1.00,0.00,Tumor
+Y113.JPG,1.00,0.00,Tumor
+Cancer (2372).jpg,1.00,0.00,Tumor
+Cancer (1423).jpg,1.00,0.00,Tumor
+Cancer (992).JPG,1.00,0.00,Tumor
+Cancer (1302).jpg,1.00,0.00,Tumor
+Cancer (2365).jpg,1.00,0.00,Tumor
+Y24.jpg,1.00,0.00,Tumor
+Cancer (2355).jpg,1.00,0.00,Tumor
+Cancer (987).jpg,1.00,0.00,Tumor
+Y77.jpg,1.00,0.00,Tumor
+Cancer (1202).jpg,1.00,0.00,Tumor
+Y91.jpg,1.00,0.00,Tumor
+Cancer (1168).jpg,1.00,0.00,Tumor
+Cancer (2246).jpg,1.00,0.00,Tumor
+Cancer (1544).jpg,1.00,0.00,Tumor
+Cancer (2378).jpg,1.00,0.00,Tumor
+Cancer (174).jpg,1.00,0.00,Tumor
+Cancer (583).jpg,1.00,0.00,Tumor
+Y157.JPG,1.00,0.00,Tumor
+Cancer (1381).jpg,1.00,0.00,Tumor
+Cancer (51).tif,Error,Error,Tumor
+Cancer (281).jpg,1.00,0.00,Tumor
+Cancer (2223).jpg,1.00,0.00,Tumor
+Cancer (982).jpg,1.00,0.00,Tumor
+Y243.JPG,1.00,0.00,Tumor
+Y105.jpg,1.00,0.00,Tumor
+Cancer (2069).jpg,1.00,0.00,Tumor
+Cancer (52).jpg,1.00,0.00,Tumor
+Cancer (968).jpg,1.00,0.00,Tumor
+Y23.JPG,1.00,0.00,Tumor
+Cancer (1201).jpg,1.00,0.00,Tumor
+Cancer (2362).jpg,1.00,0.00,Tumor
+Cancer (1207).jpg,1.00,0.00,Tumor
+Y61.jpg,1.00,0.00,Tumor
+Cancer (276).jpg,1.00,0.00,Tumor
+Y74.jpg,1.00,0.00,Tumor
+Cancer (1420).jpg,1.00,0.00,Tumor
+Y40.JPG,1.00,0.00,Tumor
+Cancer (1415).jpg,1.00,0.00,Tumor
+Cancer (2222).jpg,1.00,0.00,Tumor
+Cancer (1186).JPG,1.00,0.00,Tumor
+Y100.JPG,1.00,0.00,Tumor
+Cancer (979).jpg,1.00,0.00,Tumor
+Cancer (1521).jpg,1.00,0.00,Tumor
+Cancer (169).jpg,1.00,0.00,Tumor
+Y9.jpg,1.00,0.00,Tumor
+Cancer (1162).jpg,1.00,0.00,Tumor
+Y11.jpg,1.00,0.00,Tumor
+Y162.jpg,1.00,0.00,Tumor
+Cancer (1293).jpg,1.00,0.00,Tumor
+Cancer (167).jpg,1.00,0.00,Tumor
+Cancer (1518).jpg,1.00,0.00,Tumor
+Cancer (407).jpg,1.00,0.00,Tumor
+Cancer (1197).jpg,1.00,0.00,Tumor
+Y103.jpg,1.00,0.00,Tumor
+Cancer (2363).jpg,1.00,0.00,Tumor
+Y79.jpg,1.00,0.00,Tumor
+Cancer (1171).JPG,1.00,0.00,Tumor
+Cancer (1166).jpg,1.00,0.00,Tumor
+Cancer (599).jpg,1.00,0.00,Tumor
+Cancer (2385).jpg,1.00,0.00,Tumor
+Y52.jpg,1.00,0.00,Tumor
+Cancer (2232).jpg,1.00,0.00,Tumor
+Cancer (2384).jpg,1.00,0.00,Tumor
+Cancer (12).jpg,1.00,0.00,Tumor
+Y60.jpg,1.00,0.00,Tumor
+Y16.JPG,1.00,0.00,Tumor
+Cancer (1188).jpg,1.00,0.00,Tumor
+Cancer (1167).jpg,1.00,0.00,Tumor
+Cancer (2360).jpg,1.00,0.00,Tumor
+Y153.jpg,1.00,0.00,Tumor
+Y3.jpg,1.00,0.00,Tumor
+Cancer (595).jpg,1.00,0.00,Tumor
+Cancer (1154).jpg,1.00,0.00,Tumor
+Y168.jpg,1.00,0.00,Tumor
+Cancer (288).jpg,1.00,0.00,Tumor
+Y167.JPG,1.00,0.00,Tumor
+Cancer (1290).jpg,1.00,0.00,Tumor
+Y193.JPG,1.00,0.00,Tumor
+Cancer (7).tif,Error,Error,Tumor
+Cancer (977).JPG,1.00,0.00,Tumor
+Cancer (1430).jpg,1.00,0.00,Tumor
+Cancer (168).jpg,1.00,0.00,Tumor
+Cancer (983).jpg,1.00,0.00,Tumor
+Y62.jpg,1.00,0.00,Tumor
+Cancer (1280).jpg,1.00,0.00,Tumor
+Cancer (601).jpg,1.00,0.00,Tumor
+Cancer (1421).jpg,1.00,0.00,Tumor
+Cancer (165).jpg,1.00,0.00,Tumor
+Cancer (1204).jpg,1.00,0.00,Tumor
+Cancer (593).jpg,1.00,0.00,Tumor
+Cancer (2375).jpg,1.00,0.00,Tumor
+Cancer (418).jpg,1.00,0.00,Tumor
+Cancer (997).jpg,1.00,0.00,Tumor
+Cancer (425).jpg,1.00,0.00,Tumor
+Cancer (1536).jpg,1.00,0.00,Tumor
+Cancer (1529).jpg,1.00,0.00,Tumor
+Y102.jpg,1.00,0.00,Tumor
+Y41.jpg,1.00,0.00,Tumor
+Y187.jpg,1.00,0.00,Tumor
+Cancer (1298).jpg,1.00,0.00,Tumor
+Cancer (409).jpg,1.00,0.00,Tumor
+Cancer (999).jpg,1.00,0.00,Tumor
+Cancer (1006).jpg,1.00,0.00,Tumor
+Cancer (1203).jpg,1.00,0.00,Tumor
+Y185.jpg,1.00,0.00,Tumor
+Cancer (2357).jpg,1.00,0.00,Tumor
+Y147.JPG,1.00,0.00,Tumor
+Cancer (287).jpg,1.00,0.00,Tumor
+Cancer (1303).jpg,1.00,0.00,Tumor
+Y85.JPG,1.00,0.00,Tumor
+Cancer (586).jpg,1.00,0.00,Tumor
+Cancer (591).jpg,1.00,0.00,Tumor
+Y20.jpg,1.00,0.00,Tumor
+Cancer (1530).jpg,1.00,0.00,Tumor
+Cancer (405).jpg,1.00,0.00,Tumor
+Cancer (1008).jpg,1.00,0.00,Tumor
+Cancer (585).jpg,1.00,0.00,Tumor
+Y34.jpg,1.00,0.00,Tumor
+Cancer (995).jpg,1.00,0.00,Tumor
+Cancer (1199).jpg,1.00,0.00,Tumor
+Cancer (267).jpg,1.00,0.00,Tumor
+Cancer (1436).jpg,1.00,0.00,Tumor
+Y76.jpg,1.00,0.00,Tumor
+Y112.JPG,1.00,0.00,Tumor
+Cancer (1274).jpg,1.00,0.00,Tumor
+Y247.JPG,1.00,0.00,Tumor
+Y95.jpg,1.00,0.00,Tumor
+Cancer (1538).jpg,1.00,0.00,Tumor
+Cancer (1431).jpg,1.00,0.00,Tumor
+Y4.jpg,1.00,0.00,Tumor
+Cancer (424).jpg,1.00,0.00,Tumor
+Y257.jpg,1.00,0.00,Tumor
+Cancer (1534).jpg,1.00,0.00,Tumor
+Cancer (1156).jpg,1.00,0.00,Tumor
+Cancer (299).jpg,1.00,0.00,Tumor
+Y21.jpg,1.00,0.00,Tumor
+Cancer (1301).jpg,1.00,0.00,Tumor
+Cancer (49).tif,Error,Error,Tumor
+Cancer (411).jpg,1.00,0.00,Tumor
+Cancer (47).jpg,1.00,0.00,Tumor
+Cancer (1004).jpg,1.00,0.00,Tumor
+Y249.JPG,1.00,0.00,Tumor
+Cancer (277).jpg,1.00,0.00,Tumor
+Y54.jpg,1.00,0.00,Tumor
+Y47.JPG,1.00,0.00,Tumor
+Y97.JPG,1.00,0.00,Tumor
+Cancer (984).jpg,1.00,0.00,Tumor
+Cancer (2364).jpg,1.00,0.00,Tumor
+Cancer (294).jpg,1.00,0.00,Tumor
+Cancer (1317).jpg,1.00,0.00,Tumor
+Y188.jpg,1.00,0.00,Tumor
+Cancer (1191).jpg,1.00,0.00,Tumor
+Y259.JPG,1.00,0.00,Tumor
+Cancer (2083).jpg,1.00,0.00,Tumor
+Cancer (994).JPG,1.00,0.00,Tumor
+Y194.jpg,1.00,0.00,Tumor
+Cancer (1523).jpg,1.00,0.00,Tumor
+Y82.jpg,1.00,0.00,Tumor
+Cancer (1172).jpg,1.00,0.00,Tumor
+Cancer (176).jpg,1.00,0.00,Tumor
+Cancer (2356).jpg,1.00,0.00,Tumor
+Cancer (2080).jpg,1.00,0.00,Tumor
+Cancer (1515).jpg,1.00,0.00,Tumor
+Y31.jpg,1.00,0.00,Tumor
+Cancer (2354).jpg,1.00,0.00,Tumor
+Y71.JPG,1.00,0.00,Tumor
+Cancer (985).JPG,1.00,0.00,Tumor
+Cancer (963).JPG,1.00,0.00,Tumor
+Cancer (402).jpg,1.00,0.00,Tumor
+Y92.jpg,1.00,0.00,Tumor
+Cancer (279).jpg,1.00,0.00,Tumor
+Cancer (1295).jpg,1.00,0.00,Tumor
+Cancer (177).jpg,1.00,0.00,Tumor
+Cancer (2238).jpg,1.00,0.00,Tumor
+Cancer (50).jpg,1.00,0.00,Tumor
+Cancer (1533).jpg,1.00,0.00,Tumor
+Y155.JPG,1.00,0.00,Tumor
+Cancer (1283).jpg,1.00,0.00,Tumor
+Cancer (2084).jpg,1.00,0.00,Tumor
+Cancer (1163).jpg,1.00,0.00,Tumor
+Y27.jpg,1.00,0.00,Tumor
+Y56.jpg,1.00,0.00,Tumor
+Cancer (1170).JPG,1.00,0.00,Tumor
+Cancer (1164).jpg,1.00,0.00,Tumor
+Cancer (421).jpg,1.00,0.00,Tumor
+Cancer (45).tif,Error,Error,Tumor
+Cancer (284).jpg,1.00,0.00,Tumor
+Y28.jpg,1.00,0.00,Tumor
+Y26.jpg,1.00,0.00,Tumor
+Cancer (304).jpg,1.00,0.00,Tumor
+Cancer (2368).jpg,1.00,0.00,Tumor
+Cancer (1282).jpg,1.00,0.00,Tumor
+Cancer (2067).jpg,1.00,0.00,Tumor
+Y170.JPG,1.00,0.00,Tumor
+Cancer (2089).jpg,1.00,0.00,Tumor
+Cancer (1297).jpg,1.00,0.00,Tumor
+Cancer (3).jpg,1.00,0.00,Tumor
+Cancer (991).jpg,1.00,0.00,Tumor
+Cancer (584).jpg,1.00,0.00,Tumor
+Cancer (280).jpg,1.00,0.00,Tumor
+Cancer (289).jpg,1.00,0.00,Tumor
+Cancer (51).jpg,1.00,0.00,Tumor
+Y114.JPG,1.00,0.00,Tumor
+Cancer (1438).jpg,1.00,0.00,Tumor
+Cancer (48).jpg,1.00,0.00,Tumor
+Cancer (582).jpg,1.00,0.00,Tumor
+Cancer (1542).jpg,1.00,0.00,Tumor
+Cancer (2072).jpg,1.00,0.00,Tumor
+Cancer (598).jpg,1.00,0.00,Tumor
+Cancer (46).tif,Error,Error,Tumor
+Cancer (2392).jpg,1.00,0.00,Tumor
+Y163.JPG,1.00,0.00,Tumor
+Y59.JPG,1.00,0.00,Tumor
+Y38.jpg,1.00,0.00,Tumor
+Cancer (1173).JPG,1.00,0.00,Tumor
+Y29.jpg,1.00,0.00,Tumor
+Cancer (1194).jpg,1.00,0.00,Tumor
+Y254.jpg,1.00,0.00,Tumor
+Cancer (2248).jpg,1.00,0.00,Tumor
+Cancer (2370).jpg,1.00,0.00,Tumor
+Cancer (420).jpg,1.00,0.00,Tumor
+Cancer (2389).jpg,1.00,0.00,Tumor
+Y69.jpg,1.00,0.00,Tumor
+Y251.JPG,1.00,0.00,Tumor
+Cancer (278).jpg,1.00,0.00,Tumor
+Y115.JPG,1.00,0.00,Tumor
+Cancer (1175).JPG,1.00,0.00,Tumor
+Cancer (2371).jpg,1.00,0.00,Tumor
+Cancer (2073).jpg,1.00,0.00,Tumor
+Y45.JPG,1.00,0.00,Tumor
+Y22.jpg,1.00,0.00,Tumor
+Cancer (301).jpg,1.00,0.00,Tumor
+Y158.JPG,1.00,0.00,Tumor
+Y148.JPG,1.00,0.00,Tumor
+Cancer (2078).jpg,1.00,0.00,Tumor
+Cancer (1412).jpg,1.00,0.00,Tumor
+Cancer (1165).jpg,1.00,0.00,Tumor
+Cancer (291).jpg,1.00,0.00,Tumor
+Y35.jpg,1.00,0.00,Tumor
+Cancer (1517).jpg,1.00,0.00,Tumor
+Cancer (1001).jpg,1.00,0.00,Tumor
+Cancer (1278).jpg,1.00,0.00,Tumor
+Y192.JPG,1.00,0.00,Tumor
+Cancer (1292).jpg,1.00,0.00,Tumor
+Y46.jpg,1.00,0.00,Tumor
+Cancer (1531).jpg,1.00,0.00,Tumor
+Cancer (2361).jpg,1.00,0.00,Tumor
+Y49.JPG,1.00,0.00,Tumor
+Cancer (966).jpg,1.00,0.00,Tumor
+Cancer (1526).jpg,1.00,0.00,Tumor
+Y154.jpg,1.00,0.00,Tumor
+Cancer (2386).jpg,1.00,0.00,Tumor
+Cancer (1414).jpg,1.00,0.00,Tumor
+Cancer (990).jpg,1.00,0.00,Tumor
+Cancer (1539).jpg,1.00,0.00,Tumor
+Cancer (1519).jpg,1.00,0.00,Tumor
+Cancer (1406).jpg,1.00,0.00,Tumor
+Y75.JPG,1.00,0.00,Tumor
+Cancer (4).jpg,1.00,0.00,Tumor
+Y14.jpg,1.00,0.00,Tumor
+Cancer (1009).jpg,1.00,0.00,Tumor
+Cancer (2379).jpg,1.00,0.00,Tumor
+Cancer (1161).jpg,1.00,0.00,Tumor
+Cancer (2241).jpg,1.00,0.00,Tumor
+Cancer (300).jpg,1.00,0.00,Tumor
+Y186.jpg,1.00,0.00,Tumor
+Cancer (2359).jpg,1.00,0.00,Tumor
+no 89.jpg,0.00,1.00,Healthy
+Not Cancer  (328).jpg,0.00,1.00,Healthy
+N6.jpg,0.00,1.00,Healthy
+no 8.jpg,0.00,1.00,Healthy
+Not Cancer  (1671).jpg,0.00,1.00,Healthy
+Not Cancer  (319).jpg,0.00,1.00,Healthy
+Not Cancer  (263).jpg,0.00,1.00,Healthy
+Not Cancer  (215).jpg,0.00,1.00,Healthy
+Not Cancer  (344).jpg,0.00,1.00,Healthy
+Not Cancer  (337).jpg,0.00,1.00,Healthy
+Not Cancer  (645).jpg,0.00,1.00,Healthy
+Not Cancer  (517).jpg,0.00,1.00,Healthy
+Not Cancer  (563).jpg,0.00,1.00,Healthy
+Not Cancer  (626).jpg,0.00,1.00,Healthy
+Not Cancer  (809).jpg,0.00,1.00,Healthy
+Not Cancer  (516).jpg,0.00,1.00,Healthy
+Not Cancer  (160).jpg,0.00,1.00,Healthy
+Not Cancer  (1665).jpg,0.00,1.00,Healthy
+Not Cancer  (586).jpg,0.00,1.00,Healthy
+Not Cancer  (759).jpg,0.00,1.00,Healthy
+Not Cancer  (303).jpg,0.00,1.00,Healthy
+Not Cancer  (384).jpg,0.00,1.00,Healthy
+Not Cancer  (1844).jpg,0.00,1.00,Healthy
+Not Cancer  (666).jpg,0.00,1.00,Healthy
+no 100.jpg,0.00,1.00,Healthy
+Not Cancer  (89).jpg,0.00,1.00,Healthy
+Not Cancer  (113).jpg,0.00,1.00,Healthy
+Not Cancer  (103).jpg,0.00,1.00,Healthy
+Not Cancer  (806).jpg,0.00,1.00,Healthy
+Not Cancer  (565).jpg,0.00,1.00,Healthy
+Not Cancer  (841).jpg,0.00,1.00,Healthy
+Not Cancer  (321).jpg,0.00,1.00,Healthy
+Not Cancer  (815).jpg,0.00,1.00,Healthy
+no 96.jpg,0.00,1.00,Healthy
+Not Cancer  (793).jpg,0.00,1.00,Healthy
+Not Cancer  (265).jpg,0.00,1.00,Healthy
+34 no.jpg,0.00,1.00,Healthy
+Not Cancer  (240).jpg,0.00,1.00,Healthy
+Not Cancer  (248).jpg,0.00,1.00,Healthy
+Not Cancer  (837).jpg,0.00,1.00,Healthy
+Not Cancer  (570).jpg,0.00,1.00,Healthy
+Not Cancer  (128).jpg,0.00,1.00,Healthy
+Not Cancer  (849).jpg,0.00,1.00,Healthy
+Not Cancer  (573).jpg,0.00,1.00,Healthy
+26 no.jpg,0.00,1.00,Healthy
+Not Cancer  (829).jpg,0.00,1.00,Healthy
+44no.jpg,0.00,1.00,Healthy
+17 no.jpg,0.00,1.00,Healthy
+no 94.jpg,0.00,1.00,Healthy
+Not Cancer  (96).jpg,0.00,1.00,Healthy
+19 no.jpg,0.00,1.00,Healthy
+Not Cancer  (605).jpg,0.00,1.00,Healthy
+no 5.jpeg,0.00,1.00,Healthy
+36 no.jpg,0.00,1.00,Healthy
+Not Cancer  (539).jpg,0.00,1.00,Healthy
+Not Cancer  (80).jpg,0.00,1.00,Healthy
+Not Cancer  (668).jpg,0.00,1.00,Healthy
+Not Cancer  (546).jpg,0.00,1.00,Healthy
+Not Cancer  (335).jpg,0.00,1.00,Healthy
+Not Cancer  (847).jpg,0.00,1.00,Healthy
+50 no.jpg,0.00,1.00,Healthy
+Not Cancer  (15).jpg,0.00,1.00,Healthy
+Not Cancer  (295).jpg,0.00,1.00,Healthy
+Not Cancer  (669).jpg,0.00,1.00,Healthy
+Not Cancer  (32).jpg,0.00,1.00,Healthy
+41 no.jpg,0.00,1.00,Healthy
+Not Cancer  (383).jpg,0.00,1.00,Healthy
+Not Cancer  (776).jpg,0.00,1.00,Healthy
+Not Cancer  (4).jpeg,0.00,1.00,Healthy
+No16.jpg,0.00,1.00,Healthy
+Not Cancer  (369).jpg,0.00,1.00,Healthy
+Not Cancer  (557).JPG,0.00,1.00,Healthy
+Not Cancer  (375).jpg,0.00,1.00,Healthy
+Not Cancer  (774).jpg,0.00,1.00,Healthy
+Not Cancer  (777).jpg,0.00,1.00,Healthy
+Not Cancer  (304).jpg,0.00,1.00,Healthy
+Not Cancer  (555).jpg,0.00,1.00,Healthy
+Not Cancer  (311).jpg,0.00,1.00,Healthy
+Not Cancer  (856).jpg,0.00,1.00,Healthy
+Not Cancer  (580).jpg,0.00,1.00,Healthy
+Not Cancer  (562).jpg,0.00,1.00,Healthy
+Not Cancer  (853).jpg,0.00,1.00,Healthy
+Not Cancer  (7).jpg,0.00,1.00,Healthy
+Not Cancer  (515).jpg,0.00,1.00,Healthy
+35 no.jpg,0.00,1.00,Healthy
+Not Cancer  (17).jpg,0.00,1.00,Healthy
+Not Cancer  (279).jpg,0.00,1.00,Healthy
+Not Cancer  (137).jpg,0.00,1.00,Healthy
+Not Cancer  (634).jpg,0.00,1.00,Healthy
+Not Cancer  (813).jpg,0.00,1.00,Healthy
+Not Cancer  (56).jpg,0.00,1.00,Healthy
+3 no.jpg,0.00,1.00,Healthy
+Not Cancer  (33).jpg,0.00,1.00,Healthy
+Not Cancer  (225).jpg,0.00,1.00,Healthy
+Not Cancer  (169).jpg,0.00,1.00,Healthy
+Not Cancer  (217).jpg,0.00,1.00,Healthy
+N1.JPG,0.00,1.00,Healthy
+Not Cancer  (49).jpg,0.00,1.00,Healthy
+no 7.jpeg,0.00,1.00,Healthy
+Not Cancer  (556).jpg,0.00,1.00,Healthy
+Not Cancer  (620).jpg,0.00,1.00,Healthy
+Not Cancer  (588).jpg,0.00,1.00,Healthy
+Not Cancer  (753).jpg,0.00,1.00,Healthy
+Not Cancer  (784).jpg,0.00,1.00,Healthy
+Not Cancer  (3).jpeg,0.00,1.00,Healthy
+Not Cancer  (525).jpg,0.00,1.00,Healthy
+Not Cancer  (55).jpg,0.00,1.00,Healthy
+Not Cancer  (159).jpg,0.00,1.00,Healthy
+27 no.jpg,0.00,1.00,Healthy
+Not Cancer  (541).jpg,0.00,1.00,Healthy
+Not Cancer  (644).jpg,0.00,1.00,Healthy
+Not Cancer  (88).jpg,0.00,1.00,Healthy
+Not Cancer  (530).jpg,0.00,1.00,Healthy
+Not Cancer  (161).jpg,0.00,1.00,Healthy
+Not Cancer  (773).jpg,0.00,1.00,Healthy
+Not Cancer  (73).jpg,0.00,1.00,Healthy
+Not Cancer  (629).jpg,0.00,1.00,Healthy
+Not Cancer  (264).jpg,0.00,1.00,Healthy
+Not Cancer  (571).jpg,0.00,1.00,Healthy
+Not Cancer  (351).jpg,0.00,1.00,Healthy
+Not Cancer  (749).jpg,0.00,1.00,Healthy
+10 no.jpg,0.00,1.00,Healthy
+Not Cancer  (185).jpg,0.00,1.00,Healthy
+Not Cancer  (81).jpg,0.00,1.00,Healthy
+Not Cancer  (652).jpg,0.00,1.00,Healthy
+Not Cancer  (176).jpg,0.00,1.00,Healthy
+9 no.jpg,0.00,1.00,Healthy
+Not Cancer  (636).jpg,0.00,1.00,Healthy
+Not Cancer  (97).jpg,0.00,1.00,Healthy
+Not Cancer  (353).jpg,0.00,1.00,Healthy
+Not Cancer  (524).jpg,0.00,1.00,Healthy
+Not Cancer  (808).jpg,0.00,1.00,Healthy
+Not Cancer  (845).jpg,0.00,1.00,Healthy
+No15.jpg,0.00,1.00,Healthy
+Not Cancer  (121).jpg,0.00,1.00,Healthy
+Not Cancer  (145).jpg,0.00,1.00,Healthy
+Not Cancer  (288).jpg,0.00,1.00,Healthy
+Not Cancer  (57).jpg,0.00,1.00,Healthy
+Not Cancer  (769).jpg,0.00,1.00,Healthy
+Not Cancer  (327).jpg,0.00,1.00,Healthy
+1 no.jpeg,0.00,1.00,Healthy
+Not Cancer  (312).jpg,0.00,1.00,Healthy
+No18.jpg,0.00,1.00,Healthy
+Not Cancer  (789).jpg,0.00,1.00,Healthy
+Not Cancer  (587).jpg,0.00,1.00,Healthy
+Not Cancer  (136).jpg,0.00,1.00,Healthy
+No17.jpg,0.00,1.00,Healthy
+Not Cancer  (785).jpg,0.00,1.00,Healthy
+N3.jpg,0.00,1.00,Healthy
+39 no.jpg,0.00,1.00,Healthy
+Not Cancer  (612).jpg,0.00,1.00,Healthy
+Not Cancer  (775).jpg,0.00,1.00,Healthy
+Not Cancer  (352).jpg,0.00,1.00,Healthy
+Not Cancer  (39).jpg,0.00,1.00,Healthy
+Not Cancer  (65).jpg,0.00,1.00,Healthy
+Not Cancer  (821).jpg,0.00,1.00,Healthy
+Not Cancer  (839).jpg,0.00,1.00,Healthy
+Not Cancer  (239).jpg,0.00,1.00,Healthy
+no 3.jpg,0.00,1.00,Healthy
+no 4.jpg,0.00,1.00,Healthy
+Not Cancer  (320).jpg,0.00,1.00,Healthy
+Not Cancer  (305).jpg,0.00,1.00,Healthy
+Not Cancer  (223).jpg,0.00,1.00,Healthy
+Not Cancer  (581).jpg,0.00,1.00,Healthy
+no 10.jpg,0.00,1.00,Healthy
+Not Cancer  (637).jpg,0.00,1.00,Healthy
+no 2.jpg,0.00,1.00,Healthy
+Not Cancer  (792).jpg,0.00,1.00,Healthy
+Not Cancer  (247).jpg,0.00,1.00,Healthy
+Not Cancer  (653).jpg,0.00,1.00,Healthy
+Not Cancer  (208).jpg,0.00,1.00,Healthy
+14 no.jpg,0.00,1.00,Healthy
+Not Cancer  (201).jpg,0.00,1.00,Healthy
+no.jpg,0.00,1.00,Healthy
+Not Cancer  (200).jpg,0.00,1.00,Healthy
+N2.JPG,0.00,1.00,Healthy
+Not Cancer  (95).jpg,0.00,1.00,Healthy
+Not Cancer  (376).jpg,0.00,1.00,Healthy
+Not Cancer  (848).jpg,0.00,1.00,Healthy
+Not Cancer  (345).jpg,0.00,1.00,Healthy
+Not Cancer  (368).jpg,0.00,1.00,Healthy
+Not Cancer  (343).jpg,0.00,1.00,Healthy
+Not Cancer  (522).jpg,0.00,1.00,Healthy
+Not Cancer  (233).jpg,0.00,1.00,Healthy
+24 no.jpg,0.00,1.00,Healthy
+Not Cancer  (71).jpg,0.00,1.00,Healthy
+N21.jpg,0.00,1.00,Healthy
+Not Cancer  (287).jpg,0.00,1.00,Healthy
+Not Cancer  (216).jpg,0.00,1.00,Healthy
+Not Cancer  (658).jpg,0.00,1.00,Healthy
+21 no.jpg,0.00,1.00,Healthy
+Not Cancer  (752).jpg,0.00,1.00,Healthy
+23 no.jpg,0.00,1.00,Healthy
+N22.JPG,0.00,1.00,Healthy
+Not Cancer  (549).JPG,0.00,1.00,Healthy
+Not Cancer  (24).jpg,0.00,1.00,Healthy
+38 no.jpg,0.00,1.00,Healthy
+Not Cancer  (393).jpg,0.00,1.00,Healthy
+28 no.jpg,0.00,1.00,Healthy
+12 no.jpg,0.00,1.00,Healthy
+Not Cancer  (129).jpg,0.00,1.00,Healthy
+Not Cancer  (64).jpg,0.00,1.00,Healthy
+Not Cancer  (3).jpg,0.00,1.00,Healthy
+N26.JPG,0.00,1.00,Healthy
+Not Cancer  (667).jpg,0.00,1.00,Healthy
+Not Cancer  (63).jpg,0.00,1.00,Healthy
+Not Cancer  (153).jpg,0.00,1.00,Healthy
+Not Cancer  (183).jpg,0.00,1.00,Healthy
+Not Cancer  (596).jpg,0.00,1.00,Healthy
+Not Cancer  (532).jpg,0.00,1.00,Healthy
+No14.jpg,0.00,1.00,Healthy
+no 90.jpg,0.00,1.00,Healthy
+Not Cancer  (750).jpg,0.00,1.00,Healthy
+Not Cancer  (329).jpg,0.00,1.00,Healthy
+Not Cancer  (336).jpg,0.00,1.00,Healthy
+Not Cancer  (1681).jpg,0.00,1.00,Healthy
+Not Cancer  (361).jpg,0.00,1.00,Healthy
+Not Cancer  (127).jpg,0.00,1.00,Healthy
+Not Cancer  (9).jpg,0.00,1.00,Healthy
+Not Cancer  (548).JPG,0.00,1.00,Healthy
+46 no.jpg,0.00,1.00,Healthy
+Not Cancer  (104).jpg,0.00,1.00,Healthy
+18 no.jpg,0.00,1.00,Healthy
+Not Cancer  (801).jpg,0.00,1.00,Healthy
+Not Cancer  (152).jpg,0.00,1.00,Healthy
+Not Cancer  (31).jpg,0.00,1.00,Healthy
+No21.jpg,0.00,1.00,Healthy
+Not Cancer  (231).jpg,0.00,1.00,Healthy
+no 97.jpg,0.00,1.00,Healthy
+Not Cancer  (760).jpg,0.00,1.00,Healthy
+25 no.jpg,0.00,1.00,Healthy
+Not Cancer  (257).jpg,0.00,1.00,Healthy
+Not Cancer  (207).jpg,0.00,1.00,Healthy
+Not Cancer  (1680).jpg,0.00,1.00,Healthy
+Not Cancer  (16).jpg,0.00,1.00,Healthy
+Not Cancer  (1679).jpg,0.00,1.00,Healthy
+Not Cancer  (377).jpg,0.00,1.00,Healthy
+no 923.jpg,0.00,1.00,Healthy
+Not Cancer  (538).jpg,0.00,1.00,Healthy
+Not Cancer  (857).jpg,0.00,1.00,Healthy
+Not Cancer  (855).jpg,0.00,1.00,Healthy
+Not Cancer  (256).jpg,0.00,1.00,Healthy
+Not Cancer  (271).jpg,0.00,1.00,Healthy
+Not Cancer  (547).jpg,0.00,1.00,Healthy
+Not Cancer  (392).jpg,0.00,1.00,Healthy
+Not Cancer  (833).jpg,0.00,1.00,Healthy
+Not Cancer  (1851).jpg,0.00,1.00,Healthy
+N20.JPG,0.00,1.00,Healthy
+no 6.jpg,0.00,1.00,Healthy
+49 no.jpg,0.00,1.00,Healthy
+Not Cancer  (659).jpg,0.00,1.00,Healthy
+Not Cancer  (272).jpg,0.00,1.00,Healthy
+no 9.png,0.00,1.00,Healthy
+37 no.jpg,0.00,1.00,Healthy
+Not Cancer  (805).jpg,0.00,1.00,Healthy
+Not Cancer  (224).jpg,0.00,1.00,Healthy
+Not Cancer  (554).jpg,0.00,1.00,Healthy
+47 no.jpg,0.00,1.00,Healthy
+Not Cancer  (854).jpg,0.00,1.00,Healthy
+Not Cancer  (1836).jpg,0.00,1.00,Healthy
+no 95.jpg,0.00,1.00,Healthy
+Not Cancer  (87).jpg,0.00,1.00,Healthy
+31 no.jpg,0.00,1.00,Healthy
+Not Cancer  (1852).jpg,0.00,1.00,Healthy
+Not Cancer  (191).jpg,0.00,1.00,Healthy
+29 no.jpg,0.00,1.00,Healthy
+Not Cancer  (823).jpg,0.00,1.00,Healthy
+Not Cancer  (168).jpg,0.00,1.00,Healthy
+Not Cancer  (359).jpg,0.00,1.00,Healthy
+Not Cancer  (817).jpg,0.00,1.00,Healthy
+N17.jpg,0.00,1.00,Healthy
+Not Cancer  (628).jpg,0.00,1.00,Healthy
+2 no.jpeg,0.00,1.00,Healthy
+Not Cancer  (531).jpg,0.00,1.00,Healthy
+Not Cancer  (540).jpg,0.00,1.00,Healthy
+Not Cancer  (618).jpg,0.00,1.00,Healthy
+Not Cancer  (621).jpg,0.00,1.00,Healthy
+Not Cancer  (798).jpg,0.00,1.00,Healthy
+Not Cancer  (241).jpg,0.00,1.00,Healthy
+Not Cancer  (627).jpg,0.00,1.00,Healthy
+Not Cancer  (781).jpg,0.00,1.00,Healthy
+Not Cancer  (840).jpg,0.00,1.00,Healthy
+Not Cancer  (825).jpg,0.00,1.00,Healthy
+Not Cancer  (23).jpg,0.00,1.00,Healthy
+45 no.jpg,0.00,1.00,Healthy
+Not Cancer  (768).jpg,0.00,1.00,Healthy
+40 no.jpg,0.00,1.00,Healthy
+Not Cancer  (8).jpg,0.00,1.00,Healthy
+Not Cancer  (255).jpg,0.00,1.00,Healthy
+Not Cancer  (1664).jpg,0.00,1.00,Healthy
+22 no.jpg,0.00,1.00,Healthy
+Not Cancer  (757).jpg,0.00,1.00,Healthy
+Not Cancer  (814).jpg,0.00,1.00,Healthy
+Not Cancer  (602).jpg,0.00,1.00,Healthy
+Not Cancer  (40).jpg,0.00,1.00,Healthy
+N11.jpg,0.00,1.00,Healthy
+Not Cancer  (1843).jpg,0.00,1.00,Healthy
+Not Cancer  (184).jpg,0.00,1.00,Healthy
+Not Cancer  (589).jpg,0.00,1.00,Healthy
+No12.jpg,0.00,1.00,Healthy
+N5.jpg,0.00,1.00,Healthy
+No20.jpg,0.00,1.00,Healthy
+N16.jpg,0.00,1.00,Healthy
+Not Cancer  (175).jpg,0.00,1.00,Healthy
+Not Cancer  (572).jpg,0.00,1.00,Healthy
+Not Cancer  (831).jpg,0.00,1.00,Healthy
+Not Cancer  (661).jpg,0.00,1.00,Healthy
+Not Cancer  (578).jpg,0.00,1.00,Healthy
+Not Cancer  (232).jpg,0.00,1.00,Healthy
+Not Cancer  (209).jpg,0.00,1.00,Healthy
+Not Cancer  (177).jpg,0.00,1.00,Healthy
+5 no.jpg,0.00,1.00,Healthy
+Not Cancer  (604).jpg,0.00,1.00,Healthy
+Not Cancer  (144).jpg,0.00,1.00,Healthy
+4 no.jpg,0.00,1.00,Healthy
+Not Cancer  (824).jpg,0.00,1.00,Healthy
+no 91.jpeg,0.00,1.00,Healthy
+Not Cancer  (533).jpg,0.00,1.00,Healthy
+30 no.jpg,0.00,1.00,Healthy
+Not Cancer  (1835).jpg,0.00,1.00,Healthy
+15 no.jpg,0.00,1.00,Healthy
+Not Cancer  (167).jpg,0.00,1.00,Healthy
+33 no.jpg,0.00,1.00,Healthy
+Not Cancer  (112).jpg,0.00,1.00,Healthy
+no 98.jpg,0.00,1.00,Healthy
+11 no.jpg,0.00,1.00,Healthy
+Not Cancer  (119).jpg,0.00,1.00,Healthy
+Not Cancer  (642).jpg,0.00,1.00,Healthy
+no 99.jpg,0.00,1.00,Healthy
+Not Cancer  (48).jpg,0.00,1.00,Healthy
+Not Cancer  (25).jpg,0.00,1.00,Healthy
+Not Cancer  (603).jpg,0.00,1.00,Healthy
+Not Cancer  (791).jpg,0.00,1.00,Healthy
+No11.jpg,0.00,1.00,Healthy
+Not Cancer  (783).jpg,0.00,1.00,Healthy
+Not Cancer  (249).jpg,0.00,1.00,Healthy
+Not Cancer  (1672).jpg,0.00,1.00,Healthy
+Not Cancer  (280).jpg,0.00,1.00,Healthy
+Not Cancer  (613).jpg,0.00,1.00,Healthy
+Not Cancer  (660).jpg,0.00,1.00,Healthy
+Not Cancer  (47).jpg,0.00,1.00,Healthy
+Not Cancer  (761).jpg,0.00,1.00,Healthy
+Not Cancer  (799).jpg,0.00,1.00,Healthy
+Not Cancer  (385).jpg,0.00,1.00,Healthy
+no 1.jpg,0.00,1.00,Healthy
+Not Cancer  (1834).jpg,0.00,1.00,Healthy
+Not Cancer  (367).jpg,0.00,1.00,Healthy
+Not Cancer  (1850).jpg,0.00,1.00,Healthy
+Not Cancer  (651).jpg,0.00,1.00,Healthy
+Not Cancer  (564).jpg,0.00,1.00,Healthy
+Not Cancer  (151).jpg,0.00,1.00,Healthy
+Not Cancer  (619).jpg,0.00,1.00,Healthy
+Not Cancer  (199).jpg,0.00,1.00,Healthy
+32 no.jpg,0.00,1.00,Healthy
+Not Cancer  (830).jpg,0.00,1.00,Healthy
+6 no.jpg,0.00,1.00,Healthy
+Not Cancer  (1663).jpg,0.00,1.00,Healthy
+Not Cancer  (751).jpg,0.00,1.00,Healthy
+Not Cancer  (135).jpg,0.00,1.00,Healthy
+Not Cancer  (297).jpg,0.00,1.00,Healthy
+No19.jpg,0.00,1.00,Healthy
+8 no.jpg,0.00,1.00,Healthy
+Not Cancer  (643).jpg,0.00,1.00,Healthy
+Not Cancer  (313).jpg,0.00,1.00,Healthy
+Not Cancer  (193).jpg,0.00,1.00,Healthy
+Not Cancer  (797).jpg,0.00,1.00,Healthy
+Not Cancer  (143).jpg,0.00,1.00,Healthy
+43 no.jpg,0.00,1.00,Healthy
+Not Cancer  (79).jpg,0.00,1.00,Healthy
+Not Cancer  (514).jpg,0.00,1.00,Healthy
+Not Cancer  (790).jpg,0.00,1.00,Healthy
+no 92.jpg,0.00,1.00,Healthy
+Not Cancer  (594).jpg,0.00,1.00,Healthy
+Not Cancer  (72).jpg,0.00,1.00,Healthy
+7 no.jpg,0.00,1.00,Healthy
+Not Cancer  (595).jpg,0.00,1.00,Healthy
+Not Cancer  (281).jpg,0.00,1.00,Healthy
+42 no.jpg,0.00,1.00,Healthy
+Not Cancer  (846).jpg,0.00,1.00,Healthy
+13 no.jpg,0.00,1.00,Healthy
+Not Cancer  (765).jpg,0.00,1.00,Healthy
+Not Cancer  (120).jpg,0.00,1.00,Healthy
+N19.JPG,0.00,1.00,Healthy
+Not Cancer  (192).jpg,0.00,1.00,Healthy
+Not Cancer  (816).jpg,0.00,1.00,Healthy
+Not Cancer  (611).jpg,0.00,1.00,Healthy
+Not Cancer  (650).jpg,0.00,1.00,Healthy
+Not Cancer  (822).jpg,0.00,1.00,Healthy
+Not Cancer  (758).jpg,0.00,1.00,Healthy
+Not Cancer  (1848).jpg,0.00,1.00,Healthy
+Not Cancer  (1842).jpg,0.00,1.00,Healthy
+Not Cancer  (41).jpg,0.00,1.00,Healthy
+Not Cancer  (597).jpg,0.00,1.00,Healthy
+No22.jpg,0.00,1.00,Healthy
+Not Cancer  (800).jpg,0.00,1.00,Healthy
+20 no.jpg,0.00,1.00,Healthy
+Not Cancer  (807).jpg,0.00,1.00,Healthy
+Not Cancer  (289).jpg,0.00,1.00,Healthy
+Not Cancer  (838).jpg,0.00,1.00,Healthy
+Not Cancer  (391).jpg,0.00,1.00,Healthy
+Not Cancer  (832).jpg,0.00,1.00,Healthy
+48 no.jpeg,0.00,1.00,Healthy
+Not Cancer  (273).jpg,0.00,1.00,Healthy
+Not Cancer  (767).jpg,0.00,1.00,Healthy
+Not Cancer  (111).jpg,0.00,1.00,Healthy
+Not Cancer  (105).jpg,0.00,1.00,Healthy
+Not Cancer  (1673).jpg,0.00,1.00,Healthy
+Not Cancer  (523).jpg,0.00,1.00,Healthy
+Not Cancer  (360).jpg,0.00,1.00,Healthy
+Not Cancer  (782).jpg,0.00,1.00,Healthy
+Not Cancer  (635).jpg,0.00,1.00,Healthy
+N15.jpg,0.00,1.00,Healthy
+Not Cancer  (766).jpg,0.00,1.00,Healthy
+No13.jpg,0.00,1.00,Healthy
+Not Cancer  (579).jpg,0.00,1.00,Healthy
+Not Cancer  (610).jpg,0.00,1.00,Healthy
+Not Cancer  (296).jpg,0.00,1.00,Healthy
