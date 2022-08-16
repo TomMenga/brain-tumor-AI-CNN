@@ -66,8 +66,6 @@ Or run it locally following this steps:
 <!-- CONTACT -->
 ## Contact
 
-Tommaso Menga - tommaso.menga-94@hotmail.it - [Linkedin](https://www.linkedin.com/in/tommaso-menga/)
-
-Project Link: [https://github.com/TomMenga/brain-tumor-AI-CNN](https://github.com/TomMenga/brain-tumor-AI-CNN)
+Tommaso Menga - tommaso.menga-94@hotmail.it - [GitHub](https://github.com/TomMenga) - [Linkedin](https://www.linkedin.com/in/tommaso-menga/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
