@@ -5,7 +5,7 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
   [![Release](https://badgen.net/badge/release/1.0.0/green?icon=github)](https://github.com/TomMenga/brain-tumor-AI-CNN/releases/tag/v1.0) 
-  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TomMenga/brain-tumor-AI-CNN/blob/main/Brain_Tumor_CNN_Predict.ipynb)
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TomMenga/brain-tumor-AI-CNN/blob/main/Brain_Tumor_CNN_Transfer_Learning.ipynb)
 </div>
 <p align="center">
   The objective is to build an AI capable of discerning if a brain x-rays plate has tumor or not.    
