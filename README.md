@@ -21,7 +21,7 @@
 
 Co-author: [@giuseppebrb](https://github.com/giuseppebrb)  
 
-The project aim is to use [TensorFlow](https://www.tensorflow.org/) to train a convolutional Neural Network using a dataset of ~4600 labelled images of brain scans.  
+The project aim is to use [TensorFlow](https://www.tensorflow.org/) to train a convolutional Neural Network using a dataset of ~4900 labelled images of brain scans.  
 Subsequently, we will evaluate the accuracy of our model against a test dataset
 
 ![Tumor detection example](https://user-images.githubusercontent.com/12052575/176995032-c16bb0cb-c61c-40fa-a55b-981f6035cb21.PNG)
